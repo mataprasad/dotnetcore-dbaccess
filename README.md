@@ -8,9 +8,7 @@
 
 2. Creating an asp.net core project from command line<br/>
 ```html	
-<pre>
 	dotnet new -t web
-</pre>
 ```	
 
 3. Using Visual Studio Code as IDE for asp.net core development<br/>
@@ -18,17 +16,13 @@
 
 4. Running the asp.net core project<br/>
 ```html	
-<pre>
 	dotnet restore
 	dotnet run
-</pre>
 ```	
 
 5. Adding Dapper dependency<br/>
 ```html	
-<pre>
 	"Dapper": "1.50.2"
-</pre>
 ```	
 
 6. Writing sample data access code using Dapper for SQL Server database
