@@ -1,7 +1,7 @@
 
 #'RAW SQL QUERY' USING DAPPER FOR DATABASE ACCESS IN ASP.NET CORE
 
-[![Demo CountPages alpha](http://img.youtube.com/vi/mPOhoUcSubY/maxresdefault.jpg)](https://www.youtube.com/embed/mPOhoUcSubY)
+[![Demo CountPages alpha](http://file-server-045.herokuapp.com/youtubeimg/yt-thumb.php?quality=hq&inpt=yczBaYLWMlc&play&refresh)](https://www.youtube.com/embed/mPOhoUcSubY)
 
 1. Installing dot-net core <br/>
 	https://www.microsoft.com/net/core
